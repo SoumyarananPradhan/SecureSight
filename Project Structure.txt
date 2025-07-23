@@ -1,0 +1,7 @@
+├── app/             # Next.js frontend
+├── pages/api/       # API endpoints for incident data
+├── prisma/          # DB schema and seed
+├── public/images/   # Camera thumbnails
+├── tailwind.config.js
+├── package.json
+└── README.md
